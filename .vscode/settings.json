@@ -1,0 +1,8 @@
+{
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "files.associations": {
+        "optional": "cpp",
+        "limits": "cpp"
+    }
+}
